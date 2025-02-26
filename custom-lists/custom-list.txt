@@ -19,3 +19,5 @@
 
 www.youtube.com/*
 www.reddit.com/*
+||youtube.com^
+||reddit.com^
