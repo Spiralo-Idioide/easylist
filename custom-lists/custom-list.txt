@@ -17,4 +17,5 @@
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 
-https://youtube.com/*
+www.youtube.com/*
+www.reddit.com/*
