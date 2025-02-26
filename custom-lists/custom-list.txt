@@ -5,3 +5,8 @@
 ||amazon.com^
 ||amazon.fr^
 ||amazon.co.uk^
+||wikipedia.com^
+||wikipedia.fr^
+||wikipedia.org^
+
+||duckduckgo.com^
